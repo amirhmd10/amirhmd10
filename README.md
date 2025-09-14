@@ -1,7 +1,7 @@
 <!-- Animated Header -->
 <!-- 🌟 Animated Intro Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:0D1117&height=180&section=header&text=Hi%20I'm%20Amirhossein&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:0D1117&height=180&section=header&text=Hi%20I'm%20Amir&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="header" />
 </p>
 
 <p align="center">
